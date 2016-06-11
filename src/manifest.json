@@ -2,8 +2,8 @@
     "manifest_version": 2,
 
     "name": "汉典字典",
-    "description": "汉典字典，汉典词典。使用方法：选中文字后，点击插件图标。",
-    "version": "1.0.0",
+    "description": "汉典字典，汉典词典。",
+    "version": "1.0.1",
     "icons": {
         "16": "favicon.png",
         "48": "favicon.png",
