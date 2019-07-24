@@ -2,8 +2,8 @@
     "manifest_version": 2,
 
     "name": "汉典字典",
-    "description": "汉典字典，汉典词典。",
-    "version": "1.0.1",
+    "description": "汉典字典，汉典词典查词",
+    "version": "1.0.2",
     "icons": {
         "16": "favicon.png",
         "48": "favicon.png",
